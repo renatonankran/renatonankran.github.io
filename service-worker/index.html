@@ -14,8 +14,8 @@
             {scope: "./"}
         ).then( (serviceWorker)=>{
             document.getElementById("status").innerHTML="successful"
-        }).catch((serviceWorker)=>{
-            document.getElementById("status").innerHTML="failure"
+        }).catch((err)=>{
+            document.getElementById("status").innerHTML=err
         })
     }
     else{
