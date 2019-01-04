@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Service worker</title>
+</head>
+<body>
+    <p>Registration Status: <strong id="status"></strong></p>
+    <script>
+    if("serviceWorker" in navigator){
+        navigator.serviceWorker.register(
+            "service-worker.js",
+            {scope: "./"}
+        ).then( (serviceWorker)=>{
+            document.getElementById("status").innerHTML="successful"
+        }).catch((serviceWorker)=>{
+            document.getElementById("status").innerHTML="failure"
+        })
+    }
+    else{
+        document.getElementById.innerHTML="not available."
+    }
+    </script>
+</body>
+</html>
