@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/roomie/precache-manifest.3d3543b6ed67106e0f1214ad9d64535f.js"
+  "/roomie/precache-manifest.92be785e05f07e759a27a52098ea88bf.js"
 );
 
 workbox.clientsClaim();

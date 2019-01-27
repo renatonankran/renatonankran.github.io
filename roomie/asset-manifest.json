@@ -1,7 +1,7 @@
 {
   "main.css": "/roomie/static/css/main.93ae53f7.chunk.css",
-  "main.js": "/roomie/static/js/main.77932726.chunk.js",
-  "main.js.map": "/roomie/static/js/main.77932726.chunk.js.map",
+  "main.js": "/roomie/static/js/main.beef2231.chunk.js",
+  "main.js.map": "/roomie/static/js/main.beef2231.chunk.js.map",
   "static/js/1.7edc2f7a.chunk.js": "/roomie/static/js/1.7edc2f7a.chunk.js",
   "static/js/1.7edc2f7a.chunk.js.map": "/roomie/static/js/1.7edc2f7a.chunk.js.map",
   "runtime~main.js": "/roomie/static/js/runtime~main.4b8f5db1.js",
@@ -10,6 +10,6 @@
   "static/media/pexels-photo-555790.png": "/roomie/static/media/pexels-photo-555790.1995a7b1.png",
   "static/media/App.css": "/roomie/static/media/Ativo-4.28603fce.svg",
   "index.html": "/roomie/index.html",
-  "precache-manifest.3d3543b6ed67106e0f1214ad9d64535f.js": "/roomie/precache-manifest.3d3543b6ed67106e0f1214ad9d64535f.js",
+  "precache-manifest.92be785e05f07e759a27a52098ea88bf.js": "/roomie/precache-manifest.92be785e05f07e759a27a52098ea88bf.js",
   "service-worker.js": "/roomie/service-worker.js"
 }

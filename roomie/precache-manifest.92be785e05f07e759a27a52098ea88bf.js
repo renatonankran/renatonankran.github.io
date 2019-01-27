@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/roomie/static/js/runtime~main.4b8f5db1.js"
   },
   {
-    "revision": "77932726558c6125deef",
-    "url": "/roomie/static/js/main.77932726.chunk.js"
+    "revision": "beef223117a2cd5c4412",
+    "url": "/roomie/static/js/main.beef2231.chunk.js"
   },
   {
     "revision": "7edc2f7a764900dc0712",
     "url": "/roomie/static/js/1.7edc2f7a.chunk.js"
   },
   {
-    "revision": "77932726558c6125deef",
+    "revision": "beef223117a2cd5c4412",
     "url": "/roomie/static/css/main.93ae53f7.chunk.css"
   },
   {
-    "revision": "e849f9d813773c1f88e4e7186b0c4c84",
+    "revision": "3049b36dfd62a86387e918190b49951a",
     "url": "/roomie/index.html"
   }
 ];
